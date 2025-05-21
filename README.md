@@ -36,4 +36,4 @@ Encrypted message: [some numbers]
 Decrypted message: Hello
 
 ## Results
-
+![RSA Encryption Diagram](rsa output.png)
