@@ -36,5 +36,6 @@ Encrypted message: [some numbers]
 Decrypted message: Hello
 
 ## Results
-![RSA Encryption Diagram](rsa_output.png)
+![RSA Encryption Diagram]([rsa_output.png](https://github.com/SanikaHegde/RSA-Encryption/blob/e9d01896e5fa8a8f009fc93bfe35a4e92e0e732c/rsa%20output.png))
+
 
